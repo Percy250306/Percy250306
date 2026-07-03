@@ -101,3 +101,56 @@
 <img src="https://img.shields.io/badge/FPGA_Prototyping-0A66C2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge"/>
 </p>
+
+## 🚀 Featured Projects
+
+### 🚦 1×3 Router RTL Design *(Current Project)*
+> **Verilog • RTL Design • FSM • Digital Design**
+
+Designed and implemented a **1×3 packet router** in Verilog using an FSM-based architecture for efficient packet routing and verification.
+
+---
+
+### 🖥️ RISC-V Processor Design
+> **Verilog • Computer Architecture 
+
+Developed a **RISC-V processor** as part of the **Chips to Startup (C2S)** Program, gaining hands-on experience in processor architecture and digital design.
+
+---
+
+### 🔬 CMOS Circuit Design - Mirror Adder 
+> **Cadence Virtuoso • VLSI**
+
+Designed and simulated CMOS logic circuits using **Cadence Virtuoso**, exploring transistor-level design and layout concepts.
+
+---
+
+### 🩺 AI-Based Liver Cirrhosis Detection
+> **Python • CNN • Deep Learning**
+
+Implemented a **Convolutional Neural Network (CNN)** for liver cirrhosis detection to support early diagnosis through medical image analysis.
+
+---
+
+### 👁️ AI-Based Diabetic Retinopathy Detection
+> **Python • TensorFlow • CNN**
+
+Developed a deep learning model for **diabetic retinopathy detection** using retinal fundus images to assist in early disease diagnosis.
+
+---
+
+### 🔥 Fire & Smoke Detection System
+> **Arduino • Embedded Systems • IoT**
+
+Built an IoT-based fire and smoke detection system for real-time environmental monitoring and safety alerts.
+
+---
+
+### 📡 Paper-Based Biodegradable Antenna
+> **Antenna Design • RF**
+
+Designed a **paper-based biodegradable antenna** for sustainable wireless communication applications.
+
+---
+
+> **"Every project represents a step forward in my journey to build technology that solves real-world problems."**
