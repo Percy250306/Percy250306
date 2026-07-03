@@ -300,3 +300,30 @@ Designed a **paper-based biodegradable antenna** for sustainable wireless commun
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Percy250306&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
+
+## 🏅 Achievements
+
+🥇 **Winner – ChipCraft 2.0 VLSI 24-Hour Hackathon**
+> Secured **1st Place** at **ChipCraft 2.0**, organized by **Kalasalingam Academy of Research and Education**, and received a **cash prize of ₹15,000**.
+
+---
+
+🏅 **Finalist – NIELIT Hackathon**
+> Selected among the **Top 5 teams** out of **25 participating teams**, demonstrating strong problem-solving and VLSI design skills.
+
+---
+
+🥉 **3rd Prize – Technical Poster Presentation**
+> Won **3rd Prize** at **Karunya Institute of Technology and Sciences (KITS)** with a **cash prize of ₹1,000** for presenting an innovative engineering solution.
+
+---
+
+📚 **Research Publications**
+> Authored and presented **5 research papers** in **VLSI, FPGA Design, Digital Electronics, Communication Systems, and AI for Healthcare** at national and international conferences.
+
+---
+
+🚀 **Chips to Startup (C2S) Program**
+> Successfully completed the **C2S Program**, gaining practical experience in **RISC-V Processor Design**, digital design, and semiconductor technologies.
+
+---
