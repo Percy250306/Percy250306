@@ -42,57 +42,64 @@
 ```
 ## ⚒️ Engineering Arsenal
 
-### 🔹 RTL & Digital Design
+### 💻 Programming Languages
 <p>
 <img src="https://img.shields.io/badge/Verilog-02569B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RTL_Design-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Digital_Design-1565C0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FPGA-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SystemVerilog-Learning-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🔹 EDA & Design Tools
+### ⚙️ VLSI & EDA Tools
 <p>
-<img src="https://img.shields.io/badge/Cadence_Virtuoso-ED1C24?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cadence_Genus-ED1C24?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cadence-ED1C24?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Mentor_Graphics-009639?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ModelSim-006699?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Quartus_Prime-0071C5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Keil_uVision-3949AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Quartus_Prime-0071C5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ModelSim-006699?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LTspice-8B0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OrCAD_PSpice-CC0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TINA_Design_Suite-005AA0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PSIM-0066CC?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🔹 Programming
+### 🔌 Hardware Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,matlab"/>
-</p>
-
----
-
-### 🔹 Hardware Platforms
-<p>
-<img src="https://img.shields.io/badge/Basys_3-FPGA-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PYNQ-Board-F57C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Basys_3-FPGA-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PYNQ-Board-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Black_Board-555555?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSP_Processor-008080?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🔹 Development Environment
+### 🐧 Development Environment
 <p>
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode"/>
+<img src="https://img.shields.io/badge/Keil_uVision-3949AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AutoCAD-EA1F26?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🔹 AI & Computer Vision
+### 🤖 Areas of Interest
 <p>
-<img src="https://img.shields.io/badge/Machine_Learning-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CNN-673AB7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VLSI_Design-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RTL_Design-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Physical_Design-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FPGA_Prototyping-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Signal_Processing-00695C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embedded_Systems-546E7A?style=for-the-badge"/>
 </p>
