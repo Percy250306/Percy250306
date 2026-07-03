@@ -154,3 +154,35 @@ Designed a **paper-based biodegradable antenna** for sustainable wireless commun
 ---
 
 > **"Every project represents a step forward in my journey to build technology that solves real-world problems."**
+
+## 💼 Professional Experience
+
+### 🏭 Salzer Electronics Limited
+**Industrial Intern**
+
+- Gained exposure to industrial automation and electrical manufacturing processes.
+- Learned about control systems, production workflows, and industrial engineering practices.
+
+---
+
+### 💻 NIELIT Calicut
+**VLSI & Embedded Systems Intern**
+
+- Received hands-on training in VLSI design concepts and embedded system development.
+- Worked with digital design fundamentals and hardware development tools.
+
+---
+
+### 📡 BSNL
+**Telecommunication Intern**
+
+- Learned the fundamentals of telecommunication networks and communication systems.
+- Observed switching, transmission, and networking infrastructure used in the telecom industry.
+
+---
+
+### Isaac's Smart Heart
+**AI Research & Development Intern**
+
+- Contributed to AI-based healthcare solutions using deep learning techniques.
+- Worked on medical image analysis projects for disease detection and intelligent healthcare applications.
