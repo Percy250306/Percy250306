@@ -236,3 +236,42 @@ Designed a **paper-based biodegradable antenna** for sustainable wireless commun
 - 📶 Digital Communication
 - 📡 Antenna Design
 - 📊 DSP & Signal Processing
+
+## 📚 Publications
+
+> 📖 **Research Interests:** RTL Design • Digital VLSI • Physical Design • FPGA Design • Verification • AI for Healthcare
+
+---
+
+### 🔬 Energy-Efficient High-Frequency Ring VCO in 90nm CMOS with Pseudo-NMOS Split-Load Design
+**Conference Paper | March 2026**
+
+- Designed an **energy-efficient high-frequency Ring VCO** using **90nm CMOS technology** with a **Pseudo-NMOS Split-Load architecture**, focusing on low-power and high-performance VLSI design.
+
+---
+
+### 📝 Verification of UART Using AHB VIP with Maximum Coverage
+**7th International Conference on Devices, Circuits and Systems (ICDCS 2024)**
+
+- Presented and published a research paper on **UART verification using AHB Verification IP (VIP)** with emphasis on achieving maximum functional coverage.
+
+---
+
+### 📡 A Novel High-Speed CDMA Architecture with Adaptive Code Management for Fast Data Transfer Applications
+**6th International Conference on Electronics and Sustainable Communication Systems (ICESC 2025)**
+
+- Presented and published a research paper proposing a **high-speed CDMA architecture** with adaptive code management for improved communication efficiency.
+
+---
+
+### ⚡ Design and Implementation of Full-Adder Carry-Out Logic in a 4-Bit Ripple Carry Adder Using FPGA
+**National Conference on Advances in Computing, Communication & Systems (NCACCS 2025)**
+
+- Presented a research paper demonstrating the **FPGA implementation** and optimization of carry-out logic in a 4-bit Ripple Carry Adder.
+
+---
+
+### 🩺 Early Identification of Diabetic Retinopathy Using MobileNetV3
+**International Conference on Multidisciplinary Innovations in Science & Computing (ICMISC 2025)**
+
+- Presented and published a research paper proposing a **MobileNetV3-based deep learning model** for early diabetic retinopathy detection from retinal fundus images.
