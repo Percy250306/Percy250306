@@ -157,32 +157,40 @@ Designed a **paper-based biodegradable antenna** for sustainable wireless commun
 
 ## 💼 Professional Experience
 
+### 🚀 India Space Lab
+**Winter Intern** | *1 Month*
+
+- Completed a one-month Winter Internship focused on space technology and embedded systems.
+- Gained practical exposure to hardware development and real-world engineering applications.
+
+---
+
 ### 🏭 Salzer Electronics Limited
 **Industrial Intern**
 
-- Gained exposure to industrial automation and electrical manufacturing processes.
-- Learned about control systems, production workflows, and industrial engineering practices.
+- Learned industrial automation, manufacturing processes, and quality control practices.
+- Gained exposure to industrial electrical and electronics systems.
 
 ---
 
 ### 💻 NIELIT Calicut
 **VLSI & Embedded Systems Intern**
 
-- Received hands-on training in VLSI design concepts and embedded system development.
+- Received hands-on training in VLSI design concepts and embedded systems.
 - Worked with digital design fundamentals and hardware development tools.
 
 ---
 
-### 📡 BSNL
+### 📡 Bharat Sanchar Nigam Limited (BSNL)
 **Telecommunication Intern**
 
-- Learned the fundamentals of telecommunication networks and communication systems.
-- Observed switching, transmission, and networking infrastructure used in the telecom industry.
+- Learned about telecommunication networks, switching systems, and communication infrastructure.
+- Gained practical exposure to telecom technologies and network operations.
 
 ---
 
 ### Isaac's Smart Heart
 **AI Research & Development Intern**
 
-- Contributed to AI-based healthcare solutions using deep learning techniques.
-- Worked on medical image analysis projects for disease detection and intelligent healthcare applications.
+- Contributed to AI-based healthcare solutions using deep learning.
+- Worked on medical image analysis projects for intelligent disease detection.
