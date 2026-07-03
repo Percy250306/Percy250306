@@ -33,3 +33,10 @@
 </td>
 </tr>
 </table>
+
+```text
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ "I believe the greatest innovations are those that solve real-world         │
+│ problems and leave a lasting positive impact on people's lives."            │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
