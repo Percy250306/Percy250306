@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="S. Percy Deborah Banner" width="80%">
+  <img src="banner.png" alt="S. Percy Deborah Banner" width="50%">
 </p>
 
 <h1 align="center">Hi 👋 I'm S. Percy Deborah</h1>
