@@ -40,17 +40,19 @@
 │ problems and leave a lasting positive impact on people's lives."            │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
-## 🛠️ Tech Stack
+## ⚒️ Engineering Arsenal
 
-### 💻 Programming Languages
+### 🔹 RTL & Digital Design
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,matlab" />
 <img src="https://img.shields.io/badge/Verilog-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RTL_Design-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Digital_Design-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FPGA-0A66C2?style=for-the-badge"/>
 </p>
 
 ---
 
-### ⚙️ VLSI & EDA Tools
+### 🔹 EDA & Design Tools
 <p>
 <img src="https://img.shields.io/badge/Cadence_Virtuoso-ED1C24?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Cadence_Genus-ED1C24?style=for-the-badge"/>
@@ -58,33 +60,39 @@
 <img src="https://img.shields.io/badge/ModelSim-006699?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Quartus_Prime-0071C5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=for-the-badge"/>
-</p>
-
----
-
-### 🔌 Embedded Systems & Hardware
-<p>
 <img src="https://img.shields.io/badge/Keil_uVision-3949AB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Basys_3-FPGA-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PYNQ-FPGA-orange?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🤖 AI & Data Science
+### 🔹 Programming
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,matlab"/>
+</p>
+
+---
+
+### 🔹 Hardware Platforms
+<p>
+<img src="https://img.shields.io/badge/Basys_3-FPGA-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PYNQ-Board-F57C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+</p>
+
+---
+
+### 🔹 Development Environment
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode"/>
+</p>
+
+---
+
+### 🔹 AI & Computer Vision
 <p>
 <img src="https://img.shields.io/badge/Machine_Learning-009688?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CNN-673AB7?style=for-the-badge"/>
-</p>
-
----
-
-### 🐧 Development Environment
-<p>
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
-<img src="https://img.shields.io/badge/SQL-Beginner-336791?style=for-the-badge"/>
 </p>
