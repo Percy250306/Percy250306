@@ -99,7 +99,5 @@
 <img src="https://img.shields.io/badge/RTL_Design-1565C0?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Physical_Design-6A1B9A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FPGA_Prototyping-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Signal_Processing-00695C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embedded_Systems-546E7A?style=for-the-badge"/>
 </p>
