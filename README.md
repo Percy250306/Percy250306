@@ -327,3 +327,7 @@ Designed a **paper-based biodegradable antenna** for sustainable wireless commun
 > Successfully completed the **C2S Program**, gaining practical experience in **RISC-V Processor Design**, digital design, and semiconductor technologies.
 
 ---
+
+## ✨
+
+> "From silicon to solutions, I engineer technology that improves lives."
