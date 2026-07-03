@@ -3,4 +3,4 @@
 </p>
 
 <h1 align="center">Hi 👋 I'm S. Percy Deborah</h1>
-<h3 align="center">RTL Design | VLSI | FPGA | AI Enthusiast</h3>
+<h3 align="center">VLSI Enthusiast | RTL Designer | FPGA Developer | Physical Design | AI Researcher </h3>
