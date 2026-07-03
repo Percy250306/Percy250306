@@ -275,3 +275,22 @@ Designed a **paper-based biodegradable antenna** for sustainable wireless commun
 **International Conference on Multidisciplinary Innovations in Science & Computing (ICMISC 2025)**
 
 - Presented and published a research paper proposing a **MobileNetV3-based deep learning model** for early diabetic retinopathy detection from retinal fundus images.
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Percy250306&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Percy250306&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Percy250306&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Percy250306&theme=tokyo-night&hide_border=true" />
+</p>
