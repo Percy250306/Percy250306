@@ -40,3 +40,76 @@
 │ problems and leave a lasting positive impact on people's lives."            │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
+## 🛠️ Tech Arsenal
+
+### 💻 Programming Languages
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,matlab" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Verilog-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SystemVerilog-E34F26?style=for-the-badge"/>
+</p>
+
+---
+
+### ⚙️ VLSI & ASIC Design
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Cadence_Virtuoso-ED1C24?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cadence_Genus-ED1C24?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RTL_Design-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ASIC_Design-444444?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Physical_Design-8A2BE2?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 🔌 FPGA & Embedded Systems
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Intel_Quartus-0071C5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Basys_3-FPGA-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PYNQ-Board-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 🤖 Artificial Intelligence
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine_Learning-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CNN-673AB7?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 🐧 Development Environment
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode"/>
+
+</p>
