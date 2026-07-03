@@ -194,3 +194,45 @@ Designed a **paper-based biodegradable antenna** for sustainable wireless commun
 
 - Contributed to AI-based healthcare solutions using deep learning.
 - Worked on medical image analysis projects for intelligent disease detection.
+
+## 🏆 Certifications & Training
+
+### ⚡ VLSI & Semiconductor
+- 🖥️ VLSI System-on-Chip Design – Maven Silicon
+- 🔬 VLSI for Beginners – NIELIT Calicut
+- ⚙️ VLSI Design Workflow Development Program (ISWDP)
+- 🧩 VLSI Physical Design using Innovus
+- 🚀 Digital IC Design & Verification Workshop
+- 🏭 Industry Session: "A Way to Semiconductor Industry"
+
+---
+
+### 💻 RTL, FPGA & Hardware
+- 🔹 Verilog HDL for Beginners – NIELIT Calicut
+- 🔹 FPGA Hands-on Implementation using Xilinx & PYNQ
+- 🔹 UART using AHB VIP (IEEE Certification)
+- 🔹 PCB Learning Techniques in MATLAB
+- 🔹 Embedded Systems Design
+
+---
+
+### 🐧 Linux & Embedded Systems
+- 🐧 Linux Fundamentals
+- 🍓 Raspberry Pi Programming
+- 🔧 MicroPython for Beginners
+- 💡 Arduino Programming
+
+---
+
+### 🤖 Artificial Intelligence
+- 🧠 Deep Learning using MATLAB
+- 🩺 Liver Cirrhosis Detection using CNN
+- 👁️ Deep Learning for Diabetic Retinopathy Detection
+- 🤖 Machine Learning Crash Course
+
+---
+
+### 📡 Communication & Signal Processing
+- 📶 Digital Communication
+- 📡 Antenna Design
+- 📊 DSP & Signal Processing
